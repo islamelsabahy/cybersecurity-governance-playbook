@@ -1,0 +1,3 @@
+user_id,system,access_role,privileged,last_review,review_result,owner
+DEMO-USR-001,Demo ERP,Finance User,false,2026-08-30,Approved,Demo System Owner
+DEMO-USR-002,Demo Admin Console,Platform Admin,true,2026-08-30,Reduce Access,Demo Security Owner

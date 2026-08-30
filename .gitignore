@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials/
+private/
+production-data/
+real-incidents/
+real-vulnerabilities/
+real-assets/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

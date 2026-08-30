@@ -1,0 +1,5 @@
+metric,actual,target,status,period
+MFA Coverage %,96,100,Amber,2026-08
+Critical Vulnerabilities Open,2,0,Red,2026-08
+Restore Test Pass %,100,100,Green,2026-08
+Awareness Completion %,92,95,Amber,2026-08

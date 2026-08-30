@@ -1,0 +1,3 @@
+risk_id,asset_or_process,threat,vulnerability,likelihood,impact,inherent_risk,residual_risk,owner,treatment,status
+DEMO-CR-001,Demo Finance Platform,Account Compromise,Weak MFA Coverage,4,5,Critical,High,Demo Security Owner,Mitigate,Open
+DEMO-CR-002,Demo File Service,Ransomware,Insufficient Restore Testing,3,5,High,Medium,Demo IT Owner,Mitigate,Open

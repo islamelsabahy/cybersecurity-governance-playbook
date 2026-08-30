@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CyberRisk",
+  "type": "object",
+  "required": ["risk_id", "likelihood", "impact", "owner", "status"],
+  "properties": {
+    "risk_id": {"type": "string"},
+    "asset_or_process": {"type": ["string", "null"]},
+    "threat": {"type": ["string", "null"]},
+    "vulnerability": {"type": ["string", "null"]},
+    "likelihood": {"type": "integer", "minimum": 1, "maximum": 5},
+    "impact": {"type": "integer", "minimum": 1, "maximum": 5},
+    "owner": {"type": "string"},
+    "status": {"type": "string"}
+  }
+}

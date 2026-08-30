@@ -1,0 +1,3 @@
+incident_id,category,severity,status
+DEMO-SEC-INC-001,Phishing,Medium,Closed
+DEMO-SEC-INC-002,Malware,High,Contained

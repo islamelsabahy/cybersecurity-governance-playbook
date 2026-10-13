@@ -36,4 +36,4 @@ Governance → Inventory → Classify → Assess Risk → Implement Controls →
 10. Public examples use fictional data only.
 
 ## Author
-Eng. Islam El Sherbiny
+Eng. Islam El-Sherbiny
